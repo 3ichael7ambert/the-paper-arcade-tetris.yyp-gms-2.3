@@ -1,0 +1,73 @@
+Converting GML script: ${project_dir}\objects\obj_game\Create_0.gml
+Converted string - line 37: '0100-0100-0100-0100' -> "0100-0100-0100-0100"
+Converted string - line 38: '0000-1111-0000-0000' -> "0000-1111-0000-0000"
+Converted string - line 44: '100-111-000' -> "100-111-000"
+Converted string - line 45: '011-010-010' -> "011-010-010"
+Converted string - line 46: '000-111-001' -> "000-111-001"
+Converted string - line 47: '010-010-110' -> "010-010-110"
+Converted string - line 51: '001-111-000' -> "001-111-000"
+Converted string - line 52: '010-010-011' -> "010-010-011"
+Converted string - line 53: '000-111-100' -> "000-111-100"
+Converted string - line 54: '110-010-010' -> "110-010-010"
+Converted string - line 58: '11-11' -> "11-11"
+Converted string - line 65: '011-110-000' -> "011-110-000"
+Converted string - line 66: '010-011-001' -> "010-011-001"
+Converted string - line 72: '010-111-000' -> "010-111-000"
+Converted string - line 73: '010-011-010' -> "010-011-010"
+Converted string - line 74: '000-111-010' -> "000-111-010"
+Converted string - line 75: '010-110-010' -> "010-110-010"
+Converted string - line 79: '110-011-000' -> "110-011-000"
+Converted string - line 80: '001-011-010' -> "001-011-010"
+Converted string - line 103: 'H' -> "H"
+
+Converting GML script: ${project_dir}\objects\obj_game\Alarm_0.gml
+Converted string - line 81: '1' -> "1"
+Converted string - line 95: '-' -> "-"
+Converted string - line 117: '1' -> "1"
+Converted string - line 122: '-' -> "-"
+
+Converting GML script: ${project_dir}\objects\obj_game\Step_0.gml
+Converted string - line 3: 'TETRIS - Score: ' -> "TETRIS - Score: "
+Converted string - line 3: ' - Level: ' -> " - Level: "
+Converted string - line 19: '1' -> "1"
+Converted string - line 33: '-' -> "-"
+Converted string - line 53: '1' -> "1"
+Converted string - line 72: '-' -> "-"
+
+Converting GML script: ${project_dir}\objects\obj_game\Draw_0.gml
+Converted string - line 12: '1' -> "1"
+Converted string - line 17: '-' -> "-"
+
+Converting GML script: ${project_dir}\objects\Obj_setup\Alarm_0.gml
+Converted string - line 8: 'S' -> "S"
+Converted string - line 9: 'T' -> "T"
+
+Converting GML script: ${project_dir}\objects\o_fb\Alarm_0.gml
+ERROR: C:\Users\Owner\Documents\GameMakerStudio2\Projects\TPA\Divinity Tetris\objects\o_fb\Alarm_0.gml - 4: number of arguments expected 2 got 1
+ERROR: C:\Users\Owner\Documents\GameMakerStudio2\Projects\TPA\Divinity Tetris\objects\o_fb\Alarm_0.gml - 5: unexpected syntax error
+ERROR: C:\Users\Owner\Documents\GameMakerStudio2\Projects\TPA\Divinity Tetris\objects\o_fb\Alarm_0.gml - 6: unexpected syntax error
+ERROR: C:\Users\Owner\Documents\GameMakerStudio2\Projects\TPA\Divinity Tetris\objects\o_fb\Alarm_0.gml - 7: unexpected syntax error
+Too many errors - GML not processed : ${project_dir}\objects\o_fb\Alarm_0.gml
+
+Converting GML script: ${project_dir}\objects\o_fb\Step_0.gml
+ERROR: C:\Users\Owner\Documents\GameMakerStudio2\Projects\TPA\Divinity Tetris\objects\o_fb\Step_0.gml - 4: number of arguments expected 2 got 1
+ERROR: C:\Users\Owner\Documents\GameMakerStudio2\Projects\TPA\Divinity Tetris\objects\o_fb\Step_0.gml - 5: unexpected syntax error
+ERROR: C:\Users\Owner\Documents\GameMakerStudio2\Projects\TPA\Divinity Tetris\objects\o_fb\Step_0.gml - 6: unexpected syntax error
+ERROR: C:\Users\Owner\Documents\GameMakerStudio2\Projects\TPA\Divinity Tetris\objects\o_fb\Step_0.gml - 7: unexpected syntax error
+Too many errors - GML not processed : ${project_dir}\objects\o_fb\Step_0.gml
+
+Converting GML script: ${project_dir}\objects\o_fb\Mouse_0.gml
+ERROR: C:\Users\Owner\Documents\GameMakerStudio2\Projects\TPA\Divinity Tetris\objects\o_fb\Mouse_0.gml - 4: number of arguments expected 2 got 1
+Too many errors - GML not processed : ${project_dir}\objects\o_fb\Mouse_0.gml
+
+Missing audiogroup for sound: 'snd_muisc' - setting to default audio group
+Game speed set to 30
+Added compatibility script 'action/action_draw_score.gml'
+Added compatibility script 'action/action_set_score.gml'
+Added compatibility script 'action/action_sound.gml'
+Added compatibility script 'instance/instance_create.gml'
+Added compatibility script 'object/object_get_depth.gml'
+Added compatibility script 'sound/sound_volume.gml'
+Added compatibility script 'action/__init_action.gml'
+Added compatibility script '__init_global.gml'
+Added compatibility script '__global_object_depths.gml'
